@@ -1,0 +1,2 @@
+# dipollcord
+discordBotでpollを使用するためだけのライブラリー
